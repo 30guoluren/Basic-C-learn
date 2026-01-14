@@ -1,0 +1,30 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Iinclude",
+            "-o",
+            "build/workerManager.o",
+            "src/workerManager.cpp"
+        ],
+        "directory": "/home/li325/Codes/Cprojects/mk_system",
+        "file": "src/workerManager.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Iinclude",
+            "-o",
+            "build/main.o",
+            "src/main.cpp"
+        ],
+        "directory": "/home/li325/Codes/Cprojects/mk_system",
+        "file": "src/main.cpp"
+    }
+]

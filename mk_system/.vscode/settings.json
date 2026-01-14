@@ -1,0 +1,14 @@
+{
+    "makefile.configureOnOpen": true,
+
+    "C_Cpp.clang_format_fallbackStyle": "none",
+    "C_Cpp.clang_format_style": "file",
+    "files.autoSave": "afterDelay",
+
+    "clangd.arguments": [
+        "--compile-commands-dir=.",
+        "--background-index",
+        "--header-insertion=never",
+        "--pch-storage=memory"
+    ]
+}

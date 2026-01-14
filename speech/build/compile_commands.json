@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/li325/Codes/Cprojects/speech/build",
+  "command": "/usr/bin/c++   -I/home/li325/Codes/Cprojects/speech/include    -std=gnu++11 -o CMakeFiles/SPeech.dir/src/main.cpp.o -c /home/li325/Codes/Cprojects/speech/src/main.cpp",
+  "file": "/home/li325/Codes/Cprojects/speech/src/main.cpp"
+},
+{
+  "directory": "/home/li325/Codes/Cprojects/speech/build",
+  "command": "/usr/bin/c++   -I/home/li325/Codes/Cprojects/speech/include    -std=gnu++11 -o CMakeFiles/SPeech.dir/src/speachManager.cpp.o -c /home/li325/Codes/Cprojects/speech/src/speachManager.cpp",
+  "file": "/home/li325/Codes/Cprojects/speech/src/speachManager.cpp"
+}
+]

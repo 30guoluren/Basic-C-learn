@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SPeech.dir/src/main.cpp.o CMakeFiles/SPeech.dir/src/speachManager.cpp.o  -o SPeech 
