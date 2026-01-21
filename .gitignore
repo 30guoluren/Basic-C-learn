@@ -1,0 +1,25 @@
+# =======CMake=======
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+build*/
+
+
+# =======Clangd=======
+.cache/
+.clangd/
+compile_commands.json
+
+
+# =======编译产物=======
+*.o
+*.obj
+*.a
+*.so
+*.exe
+
+
+#=======编辑器=======
+.vscode/

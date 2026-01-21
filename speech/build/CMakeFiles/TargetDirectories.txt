@@ -1,3 +1,0 @@
-/home/li325/Codes/Cprojects/speech/build/CMakeFiles/rebuild_cache.dir
-/home/li325/Codes/Cprojects/speech/build/CMakeFiles/edit_cache.dir
-/home/li325/Codes/Cprojects/speech/build/CMakeFiles/SPeech.dir
