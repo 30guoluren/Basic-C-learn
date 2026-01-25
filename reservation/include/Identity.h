@@ -15,4 +15,6 @@ class Identity{
     // 密码
     string m_Pwd;
 
+    virtual ~Identity() = default;
+
 };
